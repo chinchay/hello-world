@@ -1,1 +1,2 @@
-This is another sample.
+I deleted the original line, 
+and added a second line.
